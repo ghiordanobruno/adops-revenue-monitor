@@ -128,9 +128,13 @@ Ele contém as abas:
 ## Preview do dashboard
 
 ![Run pipeline](assets/run_pipeline.gif)
+
 ![Summary preview](assets/summary_preview.png)
+
 ![Daily's chart](assets/daily_chart.png)
+
 ![Revenue by ad_unit](assets/revenue_by_adunit.png)
+
 ![Anomalies preview](assets/anomalies_preview.png)
 
 ## Resultados gerados
