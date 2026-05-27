@@ -249,7 +249,6 @@ python export_dashboard.py --raw data/raw/adops_custom_raw.csv --clean data/proc
 
 - Adicionar testes automatizados com `pytest`.
 - Criar gráficos no Excel para RPM, receita e fill rate.
-- Adicionar um preview visual do dashboard em `assets/dashboard_preview.png`.
 - Adicionar alertas por e-mail ou Slack para anomalias críticas.
 - Conectar o pipeline a uma fonte real, como Google Ad Manager, AdSense ou arquivos exportados de uma SSP.
 - Criar uma versão em dashboard web com Streamlit ou Power BI.
