@@ -125,6 +125,14 @@ Ele contém as abas:
 - `anomalies`: linhas marcadas por regras de anomalia.
 - `summary`: agregações por data, seção do site, dispositivo e unidade de anúncio.
 
+## Preview do dashboard
+
+![Run pipeline](assets/run_pipeline.gif)
+![Summary preview](assets/summary_preview.png)
+![Daily's chart](assets/daily_chart.png)
+![Revenue by ad_unit](assets/revenue_by_adunit.png)
+![Anomalies preview](assets/anomalies_preview.png)
+
 ## Resultados gerados
 
 Na execução padrão, o pipeline gera:
