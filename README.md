@@ -125,7 +125,7 @@ Ele contém as abas:
 - `anomalies`: linhas marcadas por regras de anomalia.
 - `summary`: agregações por data, seção do site, dispositivo e unidade de anúncio.
 
-## Preview do dashboard
+## Previews
 
 ![Run pipeline](assets/run_pipeline.gif)
 
